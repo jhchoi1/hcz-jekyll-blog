@@ -1,33 +1,33 @@
 [
   {
     "text": "Home",
-    "url": "/",
+    "url": "/themes/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
     "text": "About",
-    "url": "/about/",
+    "url": "/themes/about/",
     "icon": "fa-comments"
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "/themes/projects",
     "icon": "fa-desktop"
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "/themes/#",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "/themes/#",
     "icon": "fa-github"
   },
   {
     "text": "XML Feed",
-    "url": "/feed.xml",
+    "url": "/themes/feed.xml",
     "icon": "fa-feed",
     "target": _blank
   }

@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
 about: Freelance developer
 
-baseurl: ""
-url: ""
+url: "https://jhchoi1.github.io"
+baseurl: "themes"
 
 allowsearch: true
 

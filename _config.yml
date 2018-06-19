@@ -6,7 +6,7 @@ github: https://github.com/codeasashu
 about: Freelance developer
 
 url: "https://jhchoi1.github.io"
-baseurl: "themes"
+baseurl: /themes
 
 allowsearch: true
 
